@@ -1,0 +1,115 @@
+
+@media only screen and (min-width: 769px) {
+
+  .onlymobile{
+    display:none;
+    visibility: hidden;
+  }
+
+  body{
+    font-family: 'Gayathri', sans-serif;
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-size: 100%;
+    background-color: #f7f0ea;
+
+  }
+  p{
+    font-family: 'Gayathri', sans-serif;
+  }
+
+  .content{
+    position: relative;
+    width: 55%;
+    height: 255px;
+    margin: 175px auto 100px auto;
+    text-align: left;
+    border-radius: 20px;
+    background-color: white;
+
+
+
+
+  }
+  .avatar{
+    float: left;
+    width:5.5%;
+    height:5.5%;
+    margin-right: 5px;
+  }
+
+  .img{
+    float: left;
+    width:40%;
+    height:255px;
+    margin-right:20px;
+    border-radius: 20px 0 0 0;
+  }
+  .share{
+    text-align: right;
+    position: absolute;
+    right: 50px;
+    bottom:35px;
+  }
+
+  .one{
+    text-align:right;
+    font-size:10px;
+
+
+  }
+  .flower{
+    position: absolute;
+    right:0;
+    height:200px;
+    width:118px;
+
+
+  }
+  .two{
+    text-align:right;
+    font-size: 10px;
+  }
+  .heading{
+    margin-top: 10px;
+    padding-top: 10px;
+    width:85%;
+    font-family: 'Montserrat', sans-serif;
+    color:#776d8a;
+  }
+  .bottom{
+    color:#776d8a;
+  }
+  .kj{
+    width:85%;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  h5{
+    margin:0;
+    text-align: left;
+  }
+  p{
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  a{
+      color: #1e836c;
+      margin: 10px 20px;
+      font-family: 'Merriweather Sans', sans-serif;
+      text-decoration: none;
+    }
+    a:hover{
+      background-color: #EAF6F6;
+    }
+    .n{
+      color: #7eaed3;
+    }
+    .b{
+      color: #7eaed3;
+    }
+
+
+}
